@@ -27,4 +27,4 @@ jobs:
         env:
           DUNE_API_KEY: ${{ secrets.DUNE_API_KEY }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-        run: python jupiter_trading_volume_ath_alert.py
+        run: jupiter_trading_volume_ath_alert_dune_api_integration_2.py
