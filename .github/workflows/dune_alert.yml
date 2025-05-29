@@ -3,8 +3,7 @@ name: Dune Alert Bot
 on:
   workflow_dispatch:  # allows manual execution
   schedule:
-    - cron: "0 * * * *"  # runs every hour
-
+    - cron: "0 9 * * 1"  # runs every week
 jobs:
   run-alert:
     runs-on: ubuntu-latest
