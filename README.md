@@ -36,5 +36,3 @@ cryptoprojects/
 Week of 2025-06-02
 Total Volume: $344,621,861.70
 Rank: #86 all-time
-
-"# cryptoprojects" 
