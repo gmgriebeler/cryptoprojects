@@ -1,4 +1,4 @@
-(A) - Jupiter DEX Trading Volume Alert Bot
+Jupiter DEX Trading Volume Alert Bot
 
 This project automatically tracks the **weekly trading volume on Jupiter**, the leading DEX aggregator on Solana, using the [Dune API](https://dune.com/docs/api/) and sends alerts to a **Discord channel** every week.
 
@@ -6,7 +6,7 @@ The script is scheduled via **GitHub Actions** and can also be triggered manuall
 
 ---
 
-(B) - Features
+Features
 
 - Fetches real-time analytics from [Dune Analytics](https://dune.com/)
 - Detects trading volumes on Jupiter
@@ -15,7 +15,7 @@ The script is scheduled via **GitHub Actions** and can also be triggered manuall
 
 ---
 
-(C) - Project Structure
+Project Structure
 
 - cryptoprojects/.github/workflows/dune_alert_bot.yml # GitHub Actions workflow
 - cryptoprojects/jupiter_trading_volume_ath_alert_dune_api_integration_2.py # Main Python script
@@ -26,7 +26,7 @@ The script is scheduled via **GitHub Actions** and can also be triggered manuall
 ---
 
 
-(D) - Example Alert
+Example Alert
 
 Jupiter Total Volume Weekly Update
 
