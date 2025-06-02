@@ -17,10 +17,10 @@ The script is scheduled via **GitHub Actions** and can also be triggered manuall
 
 (C) - Project Structure
 
-cryptoprojects/.github/workflows/dune_alert_bot.yml # GitHub Actions workflow
-cryptoprojects/jupiter_trading_volume_ath_alert_dune_api_integration_2.py # Main Python script
-cryptoprojects/requirements.txt # Python dependencies
-cryptoprojects/README.md # This file
+- cryptoprojects/.github/workflows/dune_alert_bot.yml # GitHub Actions workflow
+- cryptoprojects/jupiter_trading_volume_ath_alert_dune_api_integration_2.py # Main Python script
+- cryptoprojects/requirements.txt # Python dependencies
+- cryptoprojects/README.md # This file
 
 
 ---
