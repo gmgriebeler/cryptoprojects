@@ -35,3 +35,6 @@ Week of 2025-06-02
 Total Volume: $344,621,861.70
 
 Rank: #86 all-time
+
+![image](https://github.com/user-attachments/assets/acf3374d-d0d9-4ed4-9ea2-ea78b99e8748)
+
